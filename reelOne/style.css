@@ -1,4 +1,4 @@
-/* From Uiverse.io by Praashoo7 */ 
+/* Created by @developer_vikas_ also known as vikas  */ 
 .main_back {
   position: absolute;
   /* top: 50%; */
@@ -147,7 +147,7 @@ body{
   opacity: 0;
   transition: 0.2s ease-in-out;
 }
-
+/* Created by @developer_vikas_ also known as vikas  */ 
 .main:hover {
   width: 14em;
   cursor: pointer;
@@ -259,7 +259,7 @@ body{
 .card:nth-child(5):hover .uiverse #paint2_linear_501_142 stop {
   stop-color: white;
 }
-
+/* Created by @developer_vikas_ also known as vikas  */ 
 @keyframes backgroundIMG {
   100% {
     background-image: linear-gradient(#bf66ff, #6248ff, #00ddeb);
